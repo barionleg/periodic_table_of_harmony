@@ -2,7 +2,7 @@
 
 Twelve-tone harmony visualized
 
-[![image](https://user-images.githubusercontent.com/74752740/130612698-b5a494ec-97c6-4bc2-a466-445bc9205791.png)](https://keysmusician.github.io/periodic_table_of_harmony/)
+[![image](https://user-images.githubusercontent.com/74752740/130612698-b5a494ec-97c6-4bc2-a466-445bc9205791.png)](https://barionleg.github.io/periodic_table_of_harmony/)
 
 Check it out here: https://keysmusician.github.io/periodic_table_of_harmony/
 
@@ -100,3 +100,12 @@ I'm a software engineer specializing in machine learning and interested in DSP/a
 [LinkedIn](https://www.linkedin.com/in/justin-masayda-630164130/)
 
 [Twitter](https://twitter.com/JustinMasayda)
+
+
+## barionleg [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/325-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_325_&_beyond.html) 
+
+*[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki/325_&&_B%C3%A4yond_of_d'ARTZ_W%C3%84TTER)*
+
+*[u₽p to 400](https://aibolem.github.io/TbIICSA_p_beta_Ch/)*
+
+*[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki)*
