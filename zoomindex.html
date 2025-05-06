@@ -77,30 +77,6 @@
 
         <main>
 		<!-- zoom content frame injection -->
- 		<!-- zoom content frame injection -->
-
-    <div class="zoom-tool-bar"></div>
-    <script
-      src="https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-      crossorigin="anonymous"
-    ></script>
-    <script src="https://aibolem.github.io/content-zoom-slider/src/content-zoom-slider.min.js"></script>
-    <script>
-      $(function () {
-        $("#content").contentZoomSlider({
-          toolContainer: ".zoom-tool-bar",
-        });
-
-        //  $("#content").contentZoomSlider({
-        //     toolContainer: ".zoom-tool-bar",
-        //     step: 50,
-        //     zoom: 150,
-        //     max:500
-        //   }); -->
-      });
-    </script>
-	<!-- end zoom content frame injections -->
 
     <div id="content">
         <div class="container" style="display:auto" data-zoomable>
@@ -247,6 +223,34 @@
         <script type="text/javascript" src="modal.js"></script>
 
         <script type="text/javascript" src="sidebar.js"></script>
+	</div>
+    </div>
+	</main>
+
+	     		<!-- zoom content frame injection -->
+
+    <div class="zoom-tool-bar"></div>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://aibolem.github.io/content-zoom-slider/src/content-zoom-slider.min.js"></script>
+    <script>
+      $(function () {
+        $("#content").contentZoomSlider({
+          toolContainer: ".zoom-tool-bar",
+        });
+
+        //  $("#content").contentZoomSlider({
+        //     toolContainer: ".zoom-tool-bar",
+        //     step: 50,
+        //     zoom: 150,
+        //     max:500
+        //   }); -->
+      });
+    </script>
+	<!-- end zoom content frame injections -->
 
       
     </body>
