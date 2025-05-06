@@ -77,7 +77,33 @@
 
         <main>
 		<!-- zoom content frame injection -->
-<div id="content">
+ 		<!-- zoom content frame injection -->
+
+    <div class="zoom-tool-bar"></div>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://aibolem.github.io/content-zoom-slider/src/content-zoom-slider.min.js"></script>
+    <script>
+      $(function () {
+        $("#content").contentZoomSlider({
+          toolContainer: ".zoom-tool-bar",
+        });
+
+        //  $("#content").contentZoomSlider({
+        //     toolContainer: ".zoom-tool-bar",
+        //     step: 50,
+        //     zoom: 150,
+        //     max:500
+        //   }); -->
+      });
+    </script>
+	<!-- end zoom content frame injections -->
+
+    <div id="content">
+        <div class="container" style="display:auto" data-zoomable>
 
 <!-- end zoom content frame injection -->
 		
@@ -209,33 +235,7 @@
             <a id="github-icon" href="https://github.com/barionleg/periodic_table_of_harmony" target="_blank">
 				<i class="fa fa-github" style="font-size:36px"></i>
 			</a>
-		<!-- zoom content frame injection -->
 
-        </div>
-      </div>
-    </div>
-    <div class="zoom-tool-bar"></div>
-    <script
-      src="https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-      crossorigin="anonymous"
-    ></script>
-    <script src="https://aibolem.github.io/content-zoom-slider/src/content-zoom-slider.min.js"></script>
-    <script>
-      $(function () {
-        $("#content").contentZoomSlider({
-          toolContainer: ".zoom-tool-bar",
-        });
-
-        //  $("#content").contentZoomSlider({
-        //     toolContainer: ".zoom-tool-bar",
-        //     step: 50,
-        //     zoom: 150,
-        //     max:500
-        //   }); -->
-      });
-    </script>
-	<!-- end zoom content frame injections -->
       
 		
         </footer>
