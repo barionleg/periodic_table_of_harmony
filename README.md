@@ -89,8 +89,8 @@ Since I started this project I have changed the way I think about some musical c
 The project is hosted on GitHub Pages here: https://keysmusician.github.io/periodic_table_of_harmony/
 
 Here are some links I have used or that may be useful for continuing this project:
-* https://www.data-to-viz.com/graph/network.html
-* https://bl.ocks.org/Andrew-Reid/a73f9af9ccd9ef901a0c33c624096049
+* https://barionleg.github.io/data_to_viz/graph/network.html
+* https://bl.ocks.org/barionleg/09c982dfafdafb110fc77fa48f3df669
 * https://stackoverflow.com/questions/39076826/how-to-rotate-any-shape-continuously-in-d3-js
 
 
@@ -100,3 +100,10 @@ I'm a software engineer specializing in machine learning and interested in DSP/a
 [LinkedIn](https://www.linkedin.com/in/justin-masayda-630164130/)
 
 [Twitter](https://twitter.com/JustinMasayda)
+
+____
+____
+
+Very Impressive :)
+
+A.ㄱ. ㄱA33 ㅠ IRA ㅁт
