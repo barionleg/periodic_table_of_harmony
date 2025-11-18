@@ -94,25 +94,25 @@ Here are some links I have used or that may be useful for continuing this projec
 * https://stackoverflow.com/questions/39076826/how-to-rotate-any-shape-continuously-in-d3-js
 
 
-### Author
-I'm a software engineer specializing in machine learning and interested in DSP/audio programming. I'm also a jazz pianist and music producer.
+### Auth²or (poppulistic Au or Ai Thor of past civilisations). Today we say at we remembaerng ... 
 
-[LinkedIn](https://www.linkedin.com/in/justin-masayda-630164130/)
+All Classic Music & Architect was eBERNA_вАкеД иииииииииииииииииииииииииии sience 1932, to prepear my mothers (my lovely 'frau Mutter' 🔩) world at her born @1934. 
 
-[Twitter](https://twitter.com/JustinMasayda)
+I'm a software engineer specializing in machine learning and interested in DSP/audio programming. I'm also a jazz ₽8iani$t in ₽Å$T lifes (Aii_JAZZ_IRA) and music producer (©°mPoSARC) CliMÆтОЯRµølogisck [Climateorologist at nova days]. 
 
-___
-___
+Just in тААСС АуdA AbyA SААТ И тСµЛ ☘ 
 
-<img src="https://raw.githubusercontent.com/aibolem/WebWorldWind/refs/heads/master/examples/data/blageos.png" height="100"/>
+Thanks to all link wearers, like people do ... or does ... did ... no matter when; 
+
+It ar memored in my gen 
 
 
-<img src="https://github.com/barionleg/periodic_table_of_harmony/blob/main/datauu.svg" height="100%"/>
+## barionleg 
 
-## barionleg [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/325-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_325_&_beyond.html) 
+[Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/325-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_325_&_beyond.html) 
 
-*[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki/325_&&_B%C3%A4yond_of_d'ARTZ_W%C3%84TTER)*
+*[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki/325_&&_B%C3%A4yond_of_d'ARTZ_W%C3%84TTER)* 
 
-*[u₽p to 400](https://aibolem.github.io/TbIICSA_p_beta_Ch/)*
+*[u₽p to 400](https://aibolem.github.io/TbIICSA_p_beta_Ch/)* 
 
 *[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki)*
